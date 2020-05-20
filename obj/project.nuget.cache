@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wAyFLwQCTQAvLnOuG8ZNqFPsQvcYuHQpajAjU6g+6pgLKt4jao6S1yFaGOzr/GIyHw+zCatHAiYtbDB+d6DDTQ==",
+  "success": true,
+  "projectFilePath": "/home/mutshidzi/development/C#/testingSDK/testingSDK.csproj",
+  "expectedPackageFiles": [
+    "/home/mutshidzi/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.2/microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
